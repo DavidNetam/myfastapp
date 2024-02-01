@@ -1,0 +1,5 @@
+import com.facebook.FacebookSdk;
+com.facebook.android:facebook-android-sdk:[8,9)'
+repositories {
+        mavenCentral()
+    }
