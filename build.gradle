@@ -1,5 +1,6 @@
 import com.facebook.FacebookSdk;
 com.facebook.android:facebook-android-sdk:[8,9)'
-repositories {
+compile 'com.facebook.android:facebook-share:latest.release'
+                                        repositories {
         mavenCentral()
     }
