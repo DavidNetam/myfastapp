@@ -10,3 +10,9 @@ android:exported="true"/>
 <queries>
 <provider android:authorities="com.facebook.katana.provider.PlatformProvider" /> 
 </queries>
+<manifest ... >
+    <application ... >
+        <activity android:name="com.example.myapp.MainActivity" ... >
+        </activity>
+    </application>
+</manifest>
