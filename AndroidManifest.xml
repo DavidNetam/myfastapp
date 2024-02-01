@@ -7,3 +7,6 @@
 <provider android:authorities="com.facebook.app.FacebookContentProvider329272134178690"
 android:name="com.facebook.FacebookContentProvider"
 android:exported="true"/>
+<queries>
+<provider android:authorities="com.facebook.katana.provider.PlatformProvider" /> 
+</queries>
